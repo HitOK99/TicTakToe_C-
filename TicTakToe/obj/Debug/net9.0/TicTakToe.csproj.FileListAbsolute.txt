@@ -12,3 +12,4 @@ D:\прокт студия\TicTakToe\TicTakToe\obj\Debug\net9.0\refint\TicTakToe
 D:\прокт студия\TicTakToe\TicTakToe\obj\Debug\net9.0\TicTakToe.pdb
 D:\прокт студия\TicTakToe\TicTakToe\obj\Debug\net9.0\TicTakToe.genruntimeconfig.cache
 D:\прокт студия\TicTakToe\TicTakToe\obj\Debug\net9.0\ref\TicTakToe.dll
+D:\прокт студия\TicTakToe\TicTakToe\obj\Debug\net9.0\TicTakToe.sourcelink.json
